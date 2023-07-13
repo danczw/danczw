@@ -1,7 +1,7 @@
 <div id="about" align="left">
   <b>🤖 About</b>
   <br><br>
-  Self-taught ML Engineer with a passion for using data to solve complex problems. Experienced in developing and deploying ML models.
+  ML Engineer with a passion for learning everything Software Engineering and using data to solve complex problems. Experienced in developing and deploying ML models.
   <br>
 </div>
  
