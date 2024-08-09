@@ -7,8 +7,7 @@
 
   ---
 
-<div id="languages" align="left">
-  <b>🛠️ Languages & Tools</b>
+<div id="languages" align="center">
   <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danczw&langs_count=6&hide=jupyter%20notebook,solidity&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
