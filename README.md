@@ -1,4 +1,4 @@
-this space is intentionally left blank
+this space is intentionally left blank.
 
 <!---
 danczw/danczw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
